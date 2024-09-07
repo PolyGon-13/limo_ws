@@ -1,6 +1,5 @@
 ## 기초로봇공학실험 화요일반 4조 코드
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wony046/WeGo.git)
-원본 Github 주소
 
 새내기였던 23학번이 ROS에 대해 도전하는 여러분들에게 도움을 드리고자 작성된 글입니다.
 
