@@ -1,5 +1,6 @@
 ## 기초로봇공학실험 9조 코드
-https://github.com/PolyGon-13/limo_project.git
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PolyGon-13/limo_project.git)
+
 </br></br>
 ##### limo의 메모리 이슈로 해당 python 코드를 c++로 바꾸거나, 알고리즘을 개선하여 사용하는 것을 추천 </br>
 ### 1) launch
