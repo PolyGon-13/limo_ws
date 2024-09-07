@@ -1,7 +1,6 @@
 ## 기초로봇공학실험 9조 코드
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PolyGon-13/limo_project.git)
-
-</br></br>
+</br>
 ##### limo의 메모리 이슈로 해당 python 코드를 c++로 바꾸거나, 알고리즘을 개선하여 사용하는 것을 추천 </br>
 ### 1) launch
  프로젝트를 시작하기에 앞서 앞으로의 작업을 조금이라도 더 편리하게 하는 것이 가장 중요하다고 생각하여 기존의 launch 파일 3개를 하나하나 매번 실행해야 하는 것을 수정하는 것이 급선무라고 판단하였다. 따라서 우선 새로운 ros 패키지를 생성하여 해당 디렉터리에 작업공간을 구축하였다. 또한 start.launch 파일에 roscore 등이 있는 limo_bringup, 카메라 실행, 주행 노드 실행의 3가지 launch 파일을 하나로 통합하였다. 하지만 카메라 실행 노드와 
